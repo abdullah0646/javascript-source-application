@@ -1,0 +1,86 @@
+.marginForBottom {
+  margin-bottom: 10px;
+}
+
+.onMousesetTransformation {
+  transform: scale(1.02) translateZ(0px);
+}
+
+.resetTransformation {
+  transform: none;
+}
+
+.textAlignForLeft {
+  text-align: left;
+}
+.textAlignForCenter {
+  text-align: center;
+}
+
+.OutputResultlabelFont {
+  font-size: 2.25rem;
+}
+
+.floatRight {
+  float: right;
+}
+.margin {
+  margin: 0px 0px 0px 20px;
+}
+
+.backgroundBlack {
+  background-color: black;
+}
+.colorWhite {
+  color: #fff7ed;
+}
+
+.likeButtons {
+  transition: all;
+  transition-duration: 300;
+  opacity: 0.5px;
+  animation-duration: 300;
+  opacity: 0.5;
+}
+
+.likeButtons:hover {
+  rotate: -15deg;
+  opacity: 100;
+}
+
+.textAfterlikeButtons {
+  outline: none !important;
+  background: none !important;
+  border: none !important;
+  opacity: 0.5 !important;
+}
+
+.textAfterlikeButtons:hover {
+  opacity: 100 !important;
+}
+
+.cursePointer {
+  cursor: pointer !important;
+}
+
+.css-levciy-MuiTablePagination-displayedRows,
+.css-pdct74-MuiTablePagination-selectLabel {
+  margin-top: 14px !important;
+}
+
+.css-oe0os1-MuiSvgIcon-root,
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+  color: #fff !important;
+}
+
+.css-aqpgxn-MuiFormLabel-root-MuiInputLabel-root {
+  color: #fff !important;
+}
+
+.MuiInput-root::after {
+  border-bottom: 1px solid white !important;
+}
+
+.MuiInputLabel-root {
+  color: white !important;
+}
